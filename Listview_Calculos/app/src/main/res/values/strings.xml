@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Calculos</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="op_realizadas">Operaciones Realizadas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="area_cuadrado">Area Cuadrado</string>
+    <string name="valorarea">Valor Lado :</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="ok">ok</string>
+    <string name="error_datos">Ingrese los Valores</string>
+    <string name="area_triangulu">Area Triangulo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="lado_a">Lado A</string>
+    <string name="lado_b">Lado B</string>
+    <string name="area_rectangulo">Area Rectangulo</string>
+    <string name="area_circulo">Area Circulo</string>
+    <string name="radio">Radio</string>
+    <string name="inicio">Inicio</string>
+    <string name="vol_esfera">Volumen Esfera</string>
+    <string name="vol_cilindro">Volumen Cilindro</string>
+    <string name="vol_cono">Volumen Cono</string>
+    <string name="vol_cubo">Volumen Cubo</string>
+    <string name="arista">Arista</string>
+
+
+    <array name="opciones_principales">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/op_realizadas</item>
+    </array>
+
+    <array name="opciones_volumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </array>
+
+    <array name="opciones_areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+
+    </array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculations</string>
+    <string name="Borrar">Clear</string>
+    <string name="aceptar">Accept</string>
+    <string name="altura">Height</string>
+    <string name="area_circulo">Circle Area</string>
+    <string name="area_cuadrado">Square Area</string>
+    <string name="area_rectangulo">Rectangle Area</string>
+    <string name="area_triangulu">Triangle Area</string>
+    <string name="areas">Areas</string>
+    <string name="arista">Edges</string>
+    <string name="base">Base</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="circulo">Circle</string>
+    <string name="cono">Cone</string>
+    <string name="cuadrado">Square</string>
+    <string name="cubo">Cube</string>
+    <string name="datos">Data</string>
+    <string name="error_datos">Enter Values</string>
+    <string name="esfera">Sphere</string>
+    <string name="inicio">Start</string>
+    <string name="lado_a">Side A</string>
+    <string name="lado_b">Sede B</string>
+    <string name="no">No.</string>
+    <string name="ok">ok</string>
+    <string name="op_realizadas">Operations Performed</string>
+    <string name="operacion">Operation</string>
+    <string name="radio">Radio</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="resultado">Result</string>
+    <string name="triangulo">Triangle</string>
+    <string name="valorarea">Value Side</string>
+    <string name="vol_cilindro">Cylindre Volume</string>
+    <string name="vol_cono">Cone Volume</string>
+    <string name="vol_cubo">Cube Volume</string>
+    <string name="vol_esfera">Sphere Volume</string>
+    <string name="volumenes">Volume</string>
+</resources>
